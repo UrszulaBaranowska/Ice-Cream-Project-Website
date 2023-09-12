@@ -4,7 +4,7 @@
 .background::before {
   content: '';
   position: absolute;
-  background-image: url(/src/images/products/background_mobile.jpg);
+  background-image: url("/src/images/products/background_mobile.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: repeat;
@@ -153,7 +153,7 @@
   .background::before {
     content: '';
     position: absolute;
-    background-image: url(/src/images/products/background_tablet.jpg);
+    background-image: url("/src/images/products/background_tablet.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: repeat;
@@ -207,7 +207,7 @@
     .background::before {
       content: '';
       position: absolute;
-      background-image: url(/src/images/products/background_desktop.jpg);
+      background-image: url("/src/images/products/background_desktop.jpg");
       background-size: cover;
       background-position: center;
       background-repeat: repeat;
@@ -228,7 +228,7 @@
     height: 100%;
     transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
     opacity: 1;
-    transform: scale;
+    transform:scale(1);
     visibility: visible;
   }
   .is-hidden {
@@ -305,7 +305,7 @@
     height: 72px;
   }
   .forms_nutrition-item p {
-    letter-spacing: 0%;
+    letter-spacing: 0.56px;
     width: 43px;
     height: 43px;
     background: #9cbe8f;
