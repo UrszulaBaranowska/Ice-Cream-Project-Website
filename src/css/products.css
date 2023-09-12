@@ -4,7 +4,7 @@
 .background::before {
   content: '';
   position: absolute;
-  background-image: url("/src/images/products/background_mobile.jpg");
+  background-image: url("/src/images/products/backgrounds-mobile.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: repeat;
@@ -153,7 +153,7 @@
   .background::before {
     content: '';
     position: absolute;
-    background-image: url("/src/images/products/background_tablet.jpg");
+    background-image: url("/src/images/products/backgrounds-tablet.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: repeat;
@@ -207,7 +207,7 @@
     .background::before {
       content: '';
       position: absolute;
-      background-image: url("/src/images/products/background_desktop.jpg");
+      background-image: url("/src/images/products/background-desktop.jpg");
       background-size: cover;
       background-position: center;
       background-repeat: repeat;
