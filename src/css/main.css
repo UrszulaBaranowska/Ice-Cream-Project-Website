@@ -4,12 +4,12 @@
  * Wszystkie partials podłączamy tutaj.
  */ 
 /*# sourceMappingURL=main.css.map */
-@import url('/src/css/partials/global.css');
-@import url('/src/css/partials/header.css');
-@import url('/src/css/partials/mobile-menu.css');
-@import url('/src/css/partials/hero.css');
-@import url('/src/css/partials/gallery.css');
-@import url('/src/css/partials/reviews.css');
-@import url('./partials//about.css');
-@import url('./partials/footer.css');
-@import url('./partials/advantages.css');
+@import "/src/css/global.css";
+@import "/src/css/header.css";
+@import "/src/css/mobile-menu.css";
+@import "/src/css/hero.css";
+@import "/src/css/gallery.css";
+@import "/src/css/reviews.css";
+@import "/src/css/about.css";
+@import "/src/css/footer.css";
+@import "/src/css/advantages.css";
