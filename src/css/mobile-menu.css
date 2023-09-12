@@ -59,7 +59,7 @@
 .menu-mob-pos:hover,
 .menu-mob-pos:focus {
   color: var(--main-black);
-  cursor: url('/src/images/Cursor.png'), auto;
+  cursor: url("/src/images/Cursor.png"), auto;
 }
 .menu-mob-style {
   display: flex;
