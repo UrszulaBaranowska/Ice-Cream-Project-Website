@@ -4,8 +4,9 @@
  * Wszystkie partials podłączamy tutaj.
  */ 
 /*# sourceMappingURL=main.css.map */
-@import url('./partials/global.css');
+@import url('/src/css/partials/global.css');
 @import url('./partials/header.css');
 @import url('./partials/mobile-menu.css');
 @import url('./partials/hero.css');
+@import url('./partials/gallery.css');
 
