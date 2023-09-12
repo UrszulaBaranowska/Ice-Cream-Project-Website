@@ -5,8 +5,8 @@
  */ 
 /*# sourceMappingURL=main.css.map */
 @import url('/src/css/partials/global.css');
-@import url('./partials/header.css');
-@import url('./partials/mobile-menu.css');
-@import url('./partials/hero.css');
-@import url('./partials/gallery.css');
-
+@import url('/src/css/partials/header.css');
+@import url('/src/css/partials/mobile-menu.css');
+@import url('/src/css/partials/hero.css');
+@import url('/src/css/partials/gallery.css');
+@import url('/src/css/partials/reviews.css');
