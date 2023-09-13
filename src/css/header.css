@@ -95,6 +95,9 @@
   font-weight: 700;
   line-height: normal;
 }
+.menu-pos-2 {
+  cursor:pointer;
+}
 .menu-pos:hover,
 :focus {
   cursor: url("/src/images/Cursor.png"), auto;
