@@ -1,2 +1,0 @@
-var slideIndex=1;function currentDiv(e){showDivs(slideIndex=e)}function showDivs(e){var s,n=document.getElementsByClassName("mySlides"),l=document.getElementsByClassName("demo");for(e>n.length&&(slideIndex=1),e<1&&(slideIndex=n.length),s=0;s<n.length;s++)n[s].style.display="none";for(s=0;s<l.length;s++);n[slideIndex-1].style.display="block"}showDivs(slideIndex);
-//# sourceMappingURL=index.a6ff4030.js.map
